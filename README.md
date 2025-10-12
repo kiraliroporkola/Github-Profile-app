@@ -18,7 +18,7 @@ An elegant, animated web application that allows users to search for GitHub prof
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MuradIsazade777/github-profile-search.git
+   git clone https://github.com/MuradIsazade777/https://murad-github-profile.netlify.app/
 Open index.html in your browser — no build step required.
 
 🖼️ Demo
