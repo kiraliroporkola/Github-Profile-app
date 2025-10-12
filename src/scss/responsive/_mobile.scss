@@ -1,0 +1,9 @@
+@media (max-width: 480px) {
+  .search-box {
+    flex-direction: column;
+
+    input {
+      width: 100%;
+    }
+  }
+}

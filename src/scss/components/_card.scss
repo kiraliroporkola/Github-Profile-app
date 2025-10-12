@@ -1,0 +1,22 @@
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+
+  a {
+    color: $text-color;
+    font-size: 1.5rem;
+    transition: all $transition;
+
+    &:hover {
+      color: $primary-color;
+      transform: scale(1.2);
+    }
+  }
+
+  .location {
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+}

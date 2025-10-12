@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="GitHub profile search app — user info, followers, and social connections.">
+<title>GitHub Profile Search</title>
+
+<!-- Font Awesome (for icons) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+<!-- Main style -->
+<link rel="stylesheet" href="./dist/css/main.css">
+
+<!-- Favicon (optional) -->
+<link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+</head>
+<body>
+<!-- 🌌 Starry background -->
+<canvas id="stars"></canvas>
+
+<!-- 🔹 Header section -->
+<header class="header observe">
+<h1 class="title">GitHub Profile Search</h1>
+<div class="search-box">
+<input type="text" id="username-input" placeholder="Enter username..." />
+<button id="search-btn">Search</button>
+</div>
+</header>
+
+<!-- 🔹 Main content -->
+<main class="container">
+<div id="profile-container" class="observe">
+<!-- GitHub information will appear here -->
+<p class="observe observe-hidden">Search for user...</p>
+</div>
+</main>
+
+<!-- 🔹 Footer section -->
+<footer class="footer observe">
+<p>© 2025 Created by Murad. | <i class="fa-brands fa-github"></i> <a href="https://github.com/MuradIsazade777" target="_blank">My Github Profile</a></p>
+</footer>
+
+<!-- 🔹 Scripts -->
+<script src="./dist/js/bundle.js"></script>
+</body>
+</html>

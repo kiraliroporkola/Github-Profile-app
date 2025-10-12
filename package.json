@@ -1,0 +1,12 @@
+{
+  "name": "github-profile-app",
+  "version": "1.0.0",
+  "description": "GitHub profil axtarış tətbiqi",
+  "scripts": {
+    "sass": "sass src/scss/main.scss dist/css/main.css --watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.80.0"
+  }
+}

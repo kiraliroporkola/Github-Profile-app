@@ -1,0 +1,38 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  background: transparent;
+
+  .title {
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+
+  .search-box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+    input {
+      padding: 10px 15px;
+      border-radius: 8px;
+      border: none;
+      outline: none;
+      width: 250px;
+    }
+
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 8px;
+      background: $primary-color;
+      color: white;
+      cursor: pointer;
+      transition: $transition;
+
+      &:hover {
+        background: lighten($primary-color, 10%);
+      }
+    }
+  }
+}
