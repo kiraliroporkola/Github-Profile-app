@@ -36,4 +36,4 @@ ${data.location ? `<span class="location"><i class="fa-solid fa-location-dot"></
 .catch((err) => { 
 profileContainer.innerHTML = `<p class="error">${err.message}</p>`; 
 });
-});
+}); 
