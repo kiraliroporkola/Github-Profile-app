@@ -17,12 +17,16 @@ An elegant, animated web application that allows users to search for GitHub prof
   ## 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/MuradIsazade777/https://murad-github-profile.netlify.app/
+ ```bash
+  git clone https://github.com/MuradIsazade777/https://murad-github-profile.netlify.app/
+```
+
 Open index.html in your browser — no build step required.
 
-🖼️ Demo
-Live site hosted on Netlify
+## 🔗 Live Demo
+
+Check out the live version here: [GitHub Profile Search App](https://your-netlify-link.netlify.app)
+
 
 📄 License
 This project is licensed under the MIT License — feel free to use and modify.
