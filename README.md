@@ -25,7 +25,7 @@ Open index.html in your browser — no build step required.
 
 ## 🔗 Live Demo
 
-Check out the live version here: [GitHub Profile Search App](https://your-netlify-link.netlify.app)
+Check out the live version here: [Demo](https://murad-github-profile.netlify.app/)
 
 
 📄 License
