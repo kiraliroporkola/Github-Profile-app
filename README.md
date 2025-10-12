@@ -15,8 +15,8 @@ An elegant, animated web application that allows users to search for GitHub prof
   - HTML5  
   - SCSS (modular styling)  
   - JavaScript (vanilla + DOM manipulation)
-
-  ## 🚀 Getting Started
+ 
+## 🚀 Getting Started
 
 1. Clone the repository:
  ```bash
