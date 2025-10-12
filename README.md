@@ -2,6 +2,8 @@
 
 An elegant, animated web application that allows users to search for GitHub profiles and view detailed information including bio, repositories, followers, and social links — all wrapped in a visually rich interface with starry background and smooth observer-based animations.
 
+![User Profile Display](./screenshort.png)
+
 ## 🔍 Features
 
 - 🔎 **Live GitHub User Search** — fetch and display user data via GitHub API
