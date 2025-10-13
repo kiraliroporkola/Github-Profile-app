@@ -20,14 +20,14 @@ An elegant, animated web application that allows users to search for GitHub prof
 
 1. Clone the repository:
  ```bash
-  git clone https://github.com/MuradIsazade777/https://murad-github-profile.netlify.app/
+  git clone https://github.com/MuradIsazade777/https:/github-profile-app-iota.vercel.app/
 ```
 
 Open index.html in your browser — no build step required.
 
 ## 🔗 Live Demo
 
-Check out the live version here: [Demo](https://murad-github-profile.netlify.app/)
+Check out the live version here: [Demo](https://github-profile-app-iota.vercel.app/)
 
 
 ## 📄 License
