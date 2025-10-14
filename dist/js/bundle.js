@@ -1,7 +1,6 @@
 /* bundle.js 
 Combined: stars.js + main.js + observer
 */
-
 (function(){ 
 /* ---------- Stars canvas (adapted) ---------- */ 
 const canvas = document.getElementById("stars"); 
