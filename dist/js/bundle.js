@@ -1,7 +1,6 @@
 /* bundle.js 
 Combined: stars.js + main.js + observer
 */
-
 (function(){ 
 /* ---------- Stars canvas (adapted) ---------- */ 
 const canvas = document.getElementById("stars"); 
@@ -178,7 +177,7 @@ if(observer && n) observer.observe(n);
 }); 
 } 
 
-// initial observation for any elements present at load 
+// initial observation for any elements present at load.
 observeAll(); 
 
 // re-init observer on resize (helps with rootMargin effects) 
